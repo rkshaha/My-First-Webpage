@@ -60,3 +60,25 @@ width: 50%;
     background-repeat: no-repeat;background-position: right;
 
 }
+.third-section{
+    display: flex;
+    width: 40%;
+    
+}
+.Third-part-span{
+    color: tomato;
+}
+.h1-font{
+    font-size:xx-large;
+}
+.box-shadow{
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 10px;
+    padding-left: 5%;
+
+}
+#experiences-sec{
+    padding-left: 5%;
+}
