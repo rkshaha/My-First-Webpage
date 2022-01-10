@@ -63,6 +63,7 @@ width: 50%;
 .third-section{
     display: flex;
     width: 40%;
+   
     
 }
 .Third-part-span{
@@ -77,8 +78,30 @@ width: 50%;
     margin-left: 5%;
     margin-bottom: 10px;
     padding-left: 5%;
+    border-radius: 10px;
+   
 
 }
 #experiences-sec{
     padding-left: 5%;
+}
+.back-image{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#left{
+   border-left: 7px solid;
+   border-image: linear-gradient(salmon, tomato);
+   border-image-slice: 1;
+   
+}
+#right{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
